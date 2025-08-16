@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://AceMannn.github.io/E-Wedding-Website",
+  "homepage": "https://AceMannn.github.io/E-Wedding-Website/",
   "keywords": [
     "wedding",
     "e-invite",
