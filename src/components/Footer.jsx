@@ -1,6 +1,7 @@
 // Footer.jsx
 import React from "react";
 import "../Styles/Footer.css";
+import jaeHubLogo from '../assets/logos/jaehub-logo.png'; 
 
 
 const Footer = () => {
@@ -15,10 +16,7 @@ const Footer = () => {
             target="_blank" 
             rel="noopener noreferrer"
           >
-            <img
-              src="src/assets/images/jae-hub-logo.png"
-              alt="JAE Hub Logo"
-            />
+            <img src={jaeHubLogo} alt="JAE Hub Logo" />
           </a>
           <div className="social-icons">
             <a href="#" target="_blank" rel="noopener noreferrer">
