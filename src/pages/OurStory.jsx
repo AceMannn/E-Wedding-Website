@@ -7,7 +7,7 @@ const OurStory = () => {
 
   // Array of story photos - you'll replace these with your actual photo names
   const storyPhotos = [
-    './images/story-1.jpg',
+    '.images/story-1.jpg',
     './images/story-2.jpg',
     './images/story-3.jpg',
     './images/story-4.jpg',
