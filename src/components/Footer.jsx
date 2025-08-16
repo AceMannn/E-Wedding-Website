@@ -16,7 +16,7 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             <img
-              src="src/assets/logos/jaehub-logo.png"
+              src="../assets/images/jae-hub-logo.png"
               alt="JAE Hub Logo"
             />
           </a>
