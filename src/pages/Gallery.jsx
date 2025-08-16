@@ -70,13 +70,13 @@ function Gallery() {
           modules={[EffectCoverflow, Pagination, Navigation]}
           className="swiper_container"
         >
-          <SwiperSlide><img src="/images/2.jpg" alt="slide 1" /></SwiperSlide>
-          <SwiperSlide><img src="/images/3.jpg" alt="slide 2" /></SwiperSlide>
-          <SwiperSlide><img src="/images/4.jpg" alt="slide 3" /></SwiperSlide>
-          <SwiperSlide><img src="/images/5.jpg" alt="slide 4" /></SwiperSlide>
-          <SwiperSlide><img src="/images/capture.jpg" alt="slide 5" /></SwiperSlide>
-          <SwiperSlide><img src="/images/3.jpg" alt="slide 6" /></SwiperSlide>
-          <SwiperSlide><img src="/images/4.jpg" alt="slide 7" /></SwiperSlide>
+          <SwiperSlide><img src="./images/2.jpg" alt="slide 1" /></SwiperSlide>
+          <SwiperSlide><img src="./images/3.jpg" alt="slide 2" /></SwiperSlide>
+          <SwiperSlide><img src="./images/4.jpg" alt="slide 3" /></SwiperSlide>
+          <SwiperSlide><img src="./images/5.jpg" alt="slide 4" /></SwiperSlide>
+          <SwiperSlide><img src="./images/capture.jpg" alt="slide 5" /></SwiperSlide>
+          <SwiperSlide><img src="./images/3.jpg" alt="slide 6" /></SwiperSlide>
+          <SwiperSlide><img src="./images/4.jpg" alt="slide 7" /></SwiperSlide>
 
           <div className="slider-controler">
             <div className="swiper-button-prev slider-arrow">
